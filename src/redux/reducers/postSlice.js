@@ -1,0 +1,12 @@
+import { createSlice } from "@reduxjs/toolkit";
+
+export const postSlice = createSlice({
+    name: 'post',
+    initialState:{
+        ad,
+        soyad,
+        yas
+    },
+    reducers:{},
+    extraReducers:
+})
